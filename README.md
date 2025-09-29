@@ -1,6 +1,6 @@
 # FeCli – Small Tool, Strong Protection  
 
-**Version 1.6**  
+**Version 1.5**  
 Copyright © 2015 – 2025  
 Author: **Ari Sohandri Putra**  
 [Website](https://arisohandriputra.github.io)  
