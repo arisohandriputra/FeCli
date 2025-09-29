@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
 using System.Security.Cryptography;
@@ -145,7 +145,7 @@ class FeCli
         Console.ForegroundColor = ConsoleColor.DarkGray;
         Console.WriteLine("    Copyright (c) 2015 - 2025 Ari Sohandri Putra.");
         Console.WriteLine("    All rights reserved.");
-        Console.WriteLine("    https://arisohandriputra.github.io");
+        Console.WriteLine("    https://github.com/arisohandriputra/FeCli");
         Console.ResetColor();
         Console.WriteLine();
     }
