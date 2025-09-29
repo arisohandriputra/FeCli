@@ -36,6 +36,6 @@ The tool is designed to be simple, efficient, and practical for both personal an
 ### General Syntax
 ```bash
 fecli <command> <filename>
-
+```
 ## 📄 License  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
